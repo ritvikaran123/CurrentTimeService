@@ -13,7 +13,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-//
-// gggg;;;;lllllll
-//llll
+//ci
 app.Run();
